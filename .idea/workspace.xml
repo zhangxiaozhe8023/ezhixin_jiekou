@@ -7,18 +7,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9a79df2-c5d2-4147-ba75-5c2c5250f75a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/TestFangfa/DESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/TestFangfa/DESTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/TestFangfa/qingqiu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/TestFangfa/qingqiu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/Tools/UrlTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/Tools/UrlTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/demo/testCanshu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/demo/testCanshu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/FuninhrQiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/FuninhrQiang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/InterfaceMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/InterfaceMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/LoginMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/LoginMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/entries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/format" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/0f/0f1c0456c3a2b8ab19773075275b99f043c15713.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/10/10ac44cf09de92974baf36fe37b47d8323137729.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/10/10c56653874c4ae50d563e871b9d18a809afcc75.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/11/11ada39d0a2d427bd24f7c421230c0ce14a3cf1c.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/15/151abc7b676d672c4332f60383886c5b7120d450.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/15/15aeb511cdc5e93728799dff56b110fdc839d35c.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/19/19b916804e5cb3b15a8b681aa12d3a5fd54cc682.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/19/19de5b4111d89ce25af98c78a1d8743cda8325f8.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/1f/1fc813cec866f32be344047bef4995b32ed65156.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/27/276d154000944053ca5077141583ee917e6fdafd.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/29/29a51f4687b35ec61da934f04b77ae02e0adc947.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/2d/2dfaaddb81a42787b3e586c11e69009ee832e138.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/30/30e5a59ba9610bb5a591d5d3b76b062a532f1c13.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/33/333d157fb17b23e9f5d7677bcebf5fe0f32983ff.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/34/3442ac2ce0eea64c3de0e9e54cfd9ef5eca6c95d.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/3b/3b4e43defe7b08593692db67879085007e22fa8e.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/44/440b50ee7b7fb7315f41d8e048861701afe8e792.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/46/46e0ed64dff638c84a9343c5eb41a58a8e1f16fb.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/4c/4cb3fce1d46761162a6a8d043fd6b6ae61945861.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/4d/4d4b63d10e8b3194d304223b75a821fcd858166c.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/58/586dffff010ea5ef4c485ff74d12c086387fcf57.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/66/6663ffd3bc427c9197f9bbb8879151c162d598a6.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/7f/7f11647bf1f1e1101f918a39621b18e676bf7c5e.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/7f/7f8efad1ae462d63daf0ea4a22c56947964c10ea.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/83/838ac2106539e0b32d37ff350e9a7d5478833207.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/8a/8a72978bd378a722d2d5cee5497be90deb518106.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/8f/8f7f8b3028885b931041c944c60b239e8f540a9d.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/96/96c067e9c5a65a1db4eecc62780173821cc18b0d.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/99/99d6135997b8136c90781cb8ab65330521889904.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/9c/9c2eec4c4bc958bb345c578e1721ef292964ea0f.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/a2/a247e8265f214757e9eb7fbb19528865c834996d.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/ad/adc32876ef6e74e470cdfeae733d3942c4293422.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/c4/c4d47ce4d62ad904cf7faad016fae3237065fa76.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/cc/cc2cde48a62758f7119becc010c461e66317593f.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/cf/cf46e17e5bf71fbee2089f897b6ae4951d6b15e9.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/d2/d2d782de00eb985e951ed2d159d3a3a73ca38229.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/db/db9e3566a584565250c1fcc0d46211095c6f4aa8.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/de/ded49bb2e4b562b7242d1bd4918681cb3c069097.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/e1/e118e13b88eb56c3b4bef98c0575a01b3a354666.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/e2/e26aadd434e4df3c351d467c3b0581e0f0e3d0a0.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/pristine/ed/edbaf918f0618cefc459781030b3fc80db9cf0a0.svn-base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/wc.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.svn/wc.db-journal" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,37 +65,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/TestFangfa/qingqiu.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/ecxelDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            <state relative-caret-position="105">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/Data/DataClass.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/AllSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/Data/Tokenzhi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/demo/testCanshu.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="68" column="51" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+            <state relative-caret-position="202">
+              <caret line="298" column="23" lean-forward="true" selection-start-line="298" selection-start-column="23" selection-end-line="298" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/InterfaceMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/LoginMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/FuninhrInerfce2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -99,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/interfaceTest/TestFangfa/test11.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/MainTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/interfaceTest/main/LoginMain.java" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -123,9 +186,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="68" />
+    <option name="y" value="41" />
     <option name="width" value="1373" />
     <option name="height" value="877" />
   </component>
@@ -135,22 +198,87 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ezhixinData" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="interfaceTest" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InterfaceTest" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="interfaceTest" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546924571909" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547111402081" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.qingqiu.ceshi">
+  <component name="RunManager" selected="JUnit.testCanshu.loginCeshi">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -271,18 +399,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.testCanshu.zxz" />
-      <item itemvalue="JUnit.testCanshu.loginCeshi" />
-      <item itemvalue="JUnit.qingqiu.ceshi" />
-      <item itemvalue="JUnit.InterfaceMain.wxchong" />
       <item itemvalue="JUnit.DESTest.JiamidevicesId" />
+      <item itemvalue="JUnit.InterfaceMain.wxchong" />
+      <item itemvalue="JUnit.qingqiu.ceshi" />
+      <item itemvalue="JUnit.testCanshu.loginCeshi" />
+      <item itemvalue="JUnit.testCanshu.zxz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testCanshu.loginCeshi" />
         <item itemvalue="JUnit.qingqiu.ceshi" />
         <item itemvalue="JUnit.DESTest.JiamidevicesId" />
         <item itemvalue="JUnit.InterfaceMain.wxchong" />
-        <item itemvalue="JUnit.testCanshu.loginCeshi" />
         <item itemvalue="JUnit.testCanshu.zxz" />
       </list>
     </recent_temporary>
@@ -290,24 +418,6 @@
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
-  </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -345,9 +455,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FuninhrQiang_test9 - 2018.09.05 at 15h 01m 25s.xml">
-      <configuration name="FuninhrQiang.test9" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AllSuite - 2018.09.05 at 15h 01m 46s.xml">
       <configuration name="AllSuite" configurationId="JUnit" />
     </history-entry>
@@ -375,6 +482,9 @@
     <history-entry file="qingqiu_ceshi - 2019.01.08 at 11h 13m 34s.xml">
       <configuration name="qingqiu.ceshi" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="testCanshu_loginCeshi - 2019.01.10 at 17h 10m 06s.xml">
+      <configuration name="testCanshu.loginCeshi" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="44389000" />
@@ -389,9 +499,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="23" width="1373" height="877" extended-state="6" />
+    <frame x="68" y="41" width="1373" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22088656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22389181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -400,15 +511,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8677686" weight="0.3312102" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.86701727" weight="0.3312102" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49962434" weight="0.3299363" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4981217" weight="0.32611465" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4973704" visible="true" weight="0.32611465" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49436513" visible="true" weight="0.2624204" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50563484" side_tool="true" visible="true" weight="0.2624204" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49436513" weight="0.2624204" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5026296" side_tool="true" visible="true" weight="0.32611465" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -430,13 +541,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/ecxelDemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/demo/DataDriverByExcel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -489,27 +593,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/TestngXml/testng_restAssured.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/InterfaceMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/AllSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/LoginMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ezhixinData/login.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -535,13 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
           <caret line="75" column="73" selection-start-line="75" selection-start-column="73" selection-end-line="75" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/FuninhrInerfce2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -585,8 +661,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/demo/testCanshu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="68" column="51" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
+        <state relative-caret-position="210">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/ecxelDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/InterfaceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/LoginMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/FuninhrInerfce2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interfaceTest/main/AllSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="298" column="23" lean-forward="true" selection-start-line="298" selection-start-column="23" selection-end-line="298" selection-end-column="23" />
         </state>
       </provider>
     </entry>
