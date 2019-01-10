@@ -38,6 +38,7 @@ public class qingqiu {
         String responseText = obj.getString("ciphertext");
         String MingWen =  desUtils.ebotongDecrypto(responseText);
         System.out.println(MingWen);
+        System.out.println(MingWen);
 
     }
 
