@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--可以同时开启多条线程进行测试任务-->
+<suite name="易职信接口测试"  parallel="methods">
+    <test name="测试">
+        <classes>
+            <class name="com.interfaceTest.main.InterfaceMain" >
+            </class>
+        </classes>
+    </test>
+
+</suite>
+
